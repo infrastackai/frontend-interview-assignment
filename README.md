@@ -1,4 +1,4 @@
-# Fullstack Interview Assignment: Observer
+# Fullstack Interview Assignment
 
 ## Project Overview
 
